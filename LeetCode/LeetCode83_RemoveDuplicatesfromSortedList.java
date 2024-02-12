@@ -1,4 +1,5 @@
 package LeetCode;
+// # easy
 class ListNode {
     int val;
     ListNode next;
