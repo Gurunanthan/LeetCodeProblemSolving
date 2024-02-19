@@ -1,3 +1,5 @@
+package LeetCode;
+
 public class LeetCode110_BalancedBinaryTree {
     private static boolean isTrue = true;
 
